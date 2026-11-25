@@ -8,6 +8,7 @@ Ausgeliefert wird über jsDelivr, nicht über GitHub direkt.
 
 | Datei | Zweck |
 |---|---|
+| checkliste-pflichtpruefung-53-52fa54177c.pdf | Gratis-Checkliste Pflichtprüfung § 53 GenG, Link in der Doppel-Opt-in-Bestätigungsmail |
 | rechtsformvergleich-coopcoach-c72d9256e7.pdf | Gratis-Ratgeber Rechtsformvergleich, Link in der Doppel-Opt-in-Bestätigungsmail |
 
 Betreiber der Inhalte: Cooperative Consulting eG, Olaf Haubold.
